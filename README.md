@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lolly0G
 - 👀 I’m interested in just learning code and tech
 - 🌱 I’m currently learning different topics
+- Any help is much appreciated  =)
 
 
 <!---
